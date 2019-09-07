@@ -27,4 +27,4 @@ python3 multiface.py --for multi faces
 2- Regarding normal one:
 
 just execute emotion.py file 
-![alt text]()
+![alt text](https://github.com/i-am-manish/Emotion-recognition/blob/master/Screenshot%20from%202019-09-07%2018-18-13.png)
