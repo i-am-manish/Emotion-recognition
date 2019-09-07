@@ -2,7 +2,7 @@
 with TFlearn and normal one
 
 
-1- Regarding TF learn: 
+1- Regarding TF learn(TFlearn folder): 
 
 
     First, we use haar cascade to detect faces in each frame of the webcam feed.
@@ -19,6 +19,7 @@ Download weights @ https://drive.google.com/uc?id=1rdgSdMcXIvfoPmf702UCtH6RNcvkK
 python3 singleface.py --for one face
 
 python3 multiface.py --for multi faces
+![alt text](https://github.com/i-am-manish/Emotion-recognition/blob/master/Screenshot%20from%202019-09-07%2018-20-29.png)
 
 
 2- Regarding normal one:
